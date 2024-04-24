@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pratima-olixlab/my-demo-package/static/css/main.ff02f4b5.css",
+    "main.js": "/pratima-olixlab/my-demo-package/static/js/main.4ac08e8f.js",
+    "index.html": "/pratima-olixlab/my-demo-package/index.html",
+    "main.ff02f4b5.css.map": "/pratima-olixlab/my-demo-package/static/css/main.ff02f4b5.css.map",
+    "main.4ac08e8f.js.map": "/pratima-olixlab/my-demo-package/static/js/main.4ac08e8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.4ac08e8f.js"
+  ]
+}
